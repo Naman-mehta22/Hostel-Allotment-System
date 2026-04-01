@@ -299,12 +299,9 @@ This screenshot demonstrates three operations in sequence: room vacating (Option
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**  
-Registration No: [Your Reg No]  
+**NAMAN MEHTA**  
+Registration No: 24BAI10885  
 Course: Programming in Java  
-Institution: [Your College Name]  
-Batch: [Your Batch Year]  
-GitHub: [Your GitHub Profile URL]
 
 ---
 
