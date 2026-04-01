@@ -118,7 +118,7 @@ The hostel is pre-configured with **15 rooms across 3 floors**:
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/hostel-room-allotment-system.git
+git clone https://github.com/Naman-mehta22/Hostel-Allotment-System/blob/main/README.md
 cd hostel-room-allotment-system
 ```
 
